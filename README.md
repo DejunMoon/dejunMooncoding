@@ -1,2 +1,2 @@
 # dejunMooncoding
-A repository for some interesting python thong
+A repository for some interesting python thing
